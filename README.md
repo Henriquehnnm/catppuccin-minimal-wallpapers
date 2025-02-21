@@ -9,9 +9,9 @@ The **Catppuccin Minimal Wallpapers** collection is an open-source set of wallpa
 4. Use the wallpapers freely.  
 
 ## Examples  
-![Arch wallpaper](/home/advanced/Documentos/Catppuccin Wallpapers/Wallpapers/Extra/html_css_js.png)  
+![Arch wallpaper](/home/advanced/Projects/Catppuccin Wallpapers/Wallpapers/Distros/Arch/arch.png)  
 
-![Screenshot](/home/advanced/Documentos/Catppuccin Wallpapers/screenshot/screenshot.png)  
+![Screenshot](/home/advanced/Projects/Catppuccin Wallpapers/screenshot/Captura de tela de 2025-02-20 11-34-53.png)  
 
 ## Contributing  
 Want to help? Feel free to open an issue or submit a pull request!  

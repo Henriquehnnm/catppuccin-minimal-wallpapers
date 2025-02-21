@@ -11,7 +11,7 @@ The **Catppuccin Minimal Wallpapers** collection is an open-source set of wallpa
 ## Examples  
 ![Wallpaper](Wallpapers/Extra/html_css_js.png)  
 
-![Screenshot](/home/advanced/Projects/Catppuccin Wallpapers/screenshot/Captura de tela de 2025-02-20 11-34-53.png)  
+![Screenshot](screenshot/screenshot.png)  
 
 ## Contributing  
 Want to help? Feel free to open an issue or submit a pull request!  
